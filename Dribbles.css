@@ -1,0 +1,25 @@
+span{
+display: flex;
+align-items: center;
+height: 500px;
+justify-content: center;
+}
+img{
+width: 600px;
+}
+h1{
+color: firebrick;
+text-align: center;
+height: 30px;
+
+font-family: 'Anuphan', sans-serif;
+
+}
+h2{
+    color:lightpink;
+    text-align: center;
+    height: 30px;
+    
+    font-family: 'Anuphan', sans-serif;
+    
+    }
